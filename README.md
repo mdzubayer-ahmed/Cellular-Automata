@@ -14,5 +14,4 @@ This program runs in the command Console with the second argument in the argumen
 Example: java Sim453 500 R will run life for 500 iterations, beginning with a random initial pattern of cells.
 
 Feel free to watch a video of my project from the following link:
-title: Demo video of Game of Life Simulation
-product_video: 'https://youtu.be/x0oc5eJ0kjg'
+[Demo video of Game of Life Simulation](https://youtu.be/x0oc5eJ0kjg)
