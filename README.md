@@ -1,6 +1,6 @@
 ## 2D Cellular Automata with predetermined seed
 
-This is a simulation of [Game of life] (http://ddi.cs.uni-potsdam.de/HyFISCH/Produzieren/lis_projekt/proj_gamelife/ConwayScientificAmerican.htm)
+This is a simulation of [Game of life](http://ddi.cs.uni-potsdam.de/HyFISCH/Produzieren/lis_projekt/proj_gamelife/ConwayScientificAmerican.htm)
 
 This particular simulation has three methods for the Game of Life:
 
